@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple steps
 
 - clone the repository
 
-    https://github.com/nishitdixit/rolling_Dice.git
+    https://github.com/shobhit162/rolling_Dice.git
   
 - Running your Flutter app
 
